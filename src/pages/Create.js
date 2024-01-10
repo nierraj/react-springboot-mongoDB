@@ -1,4 +1,4 @@
-git remote add origin https://github.com/nierraj/react-springboot-mongoDB.gitimport React, { useState } from "react";
+import React, { useState } from "react";
 import {
   Typography,
   TextField,
